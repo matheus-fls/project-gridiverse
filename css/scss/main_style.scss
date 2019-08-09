@@ -22,20 +22,45 @@ $gut-width: 1.38888888%;
 @mixin grid-unit($cell) {
   box-sizing: border-box;
   float: left;
-  margin-right: $gut-width;
+  margin-left: $gut-width/2;
+  margin-right: $gut-width/2;
   width: ($col-width * $cell) + ($gut-width * ($cell - 1));
 }
 
 .container {
   @include clearfix;
-  @include grid-unit(12);
   float: none;
   margin: 0 auto;
 }
 
-.main-content {@include grid-unit(8)};
+.main-content {
+};
 
 .sidebar {
-  @include grid-unit(4);
-  margin-right: 0;
+}
+
+/*sm: small screen sizes <720px*/
+
+@media only screen and (max-width:720px){
+  @for $i from 1 through 12{
+    .col-sm-#{$i}{
+      @include grid-unit($i);
+    }
+  }
+}
+
+@media only screen and (min-width:721px){
+  @for $i from 1 through 12{
+    .col-md-#{$i}{
+      @include grid-unit($i);
+    }
+  }
+}
+
+@media only screen and (min-width:1024px){
+  @for $i from 1 through 12{
+    .col-lg-#{$i}{
+      @include grid-unit($i);
+    }
+  }
 }
