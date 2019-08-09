@@ -1,2 +1,41 @@
 /*This is a SCSS Template*/
-@import _reset.css;
+@import '_reset.scss';
+
+$col-width: 6.94444444%;
+
+$gut-width: 1.38888888%;
+
+@mixin clearfix {
+  // For modern browsers
+   &:before,
+   &:after {
+     content:"";
+     display:table;
+   }  &:after {
+     clear:both;
+   }  // For IE 6/7 (trigger hasLayout)
+   & {
+     zoom:1;
+   }
+ }
+
+@mixin grid-unit($cell) {
+  box-sizing: border-box;
+  float: left;
+  margin-right: $gut-width;
+  width: ($col-width * $cell) + ($gut-width * ($cell - 1));
+}
+
+.container {
+  @include clearfix;
+  @include grid-unit(12);
+  float: none;
+  margin: 0 auto;
+}
+
+.main-content {@include grid-unit(8)};
+
+.sidebar {
+  @include grid-unit(4);
+  margin-right: 0;
+}
