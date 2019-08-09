@@ -37,32 +37,37 @@ $gut-width: 1.38888888%;
   top: 0;
 }
 
-@for $i from 1 through 12{
+@for $i from 0 through 12{
   .col-#{$i}{
     @include grid-unit($i);
+    @if $i == 0 {display: none;}
   }
 }
 
 @media only screen and (max-width:720px){
-  @for $i from 1 through 12{
+  @for $i from 0 through 12{
     .col-sm-#{$i}{
       @include grid-unit($i);
+      @if $i == 0 {display: none;}
     }
+    
   }
 }
 
 @media only screen and (min-width:721px){
-  @for $i from 1 through 12{
+  @for $i from 0 through 12{
     .col-md-#{$i}{
       @include grid-unit($i);
+      @if $i == 0 {display: none;}
     }
   }
 }
 
 @media only screen and (min-width:1024px){
-  @for $i from 1 through 12{
+  @for $i from 0 through 12{
     .col-lg-#{$i}{
       @include grid-unit($i);
+      @if $i == 0 {display: none;}
     }
   }
 }
