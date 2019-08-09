@@ -12,6 +12,8 @@ $tertiary-color: #f7ae96;
 
 .bg-tertiary {background-color: $tertiary-color;}
 
+.body-color {background-color: #1b2027;}
+
 .text-primary {
   color: $tertiary-color;
   fill: $tertiary-color;
@@ -21,8 +23,6 @@ $tertiary-color: #f7ae96;
   color: $primary-color;
   fill: $primary-color;
 }
-
-.body-color {background-color: #1b2027;}
 
 .title-color {
   color: #be4016;

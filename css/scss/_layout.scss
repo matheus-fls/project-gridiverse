@@ -16,19 +16,22 @@ $gut-width: 1.38888888%;
    }
  }
 
-@mixin grid-unit($cell) {
+ @mixin border-box {
   box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+
+@mixin grid-unit($cell) {
+  @include border-box;
   float: left;
-  margin-left: $gut-width/2;
-  margin-right: $gut-width/2;
-  margin-top: 16px;
-  margin-bottom: 16px;
+  margin: 16px $gut-width/2;
   width: ($col-width * $cell) + ($gut-width * ($cell - 1));
 }
 
 .container {
   @include clearfix;
-  float: none;
   margin: 0 16px !important;
 }
 
@@ -38,8 +41,8 @@ $gut-width: 1.38888888%;
 }
 
 .fixed-bottom{
-  position: fixed;
   bottom: 0;
+  position: fixed;
 }
 
 @for $i from 0 through 12{
