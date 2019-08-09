@@ -1,5 +1,5 @@
 /*This is a SCSS Template*/
-@import '_reset.scss';
+@import '_reset.scss', '_colors.scss';
 
 $col-width: 6.94444444%;
 
@@ -24,19 +24,40 @@ $gut-width: 1.38888888%;
   float: left;
   margin-left: $gut-width/2;
   margin-right: $gut-width/2;
+  margin-top: 16px;
+  margin-bottom: 16px;
   width: ($col-width * $cell) + ($gut-width * ($cell - 1));
 }
 
 .container {
   @include clearfix;
   float: none;
-  margin: 0 auto;
+  margin: 0 16px !important;
 }
 
 .main-content {
 };
 
 .sidebar {
+}
+
+/* - - - - - S t y l e s - - - - - */
+
+.bg-primary {background-color: $primary-color;}
+
+.bg-secondary {background-color: $secondary-color;}
+
+.bg-tertiary {background-color: $tertiary-color;}
+
+.text-primary {color: $tertiary-color;}
+
+.text-secondary {color: $primary-color;}
+
+
+@for $i from 1 through 12{
+  .col-#{$i}{
+    @include grid-unit($i);
+  }
 }
 
 /*sm: small screen sizes <720px*/
