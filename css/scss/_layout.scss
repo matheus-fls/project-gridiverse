@@ -37,6 +37,11 @@ $gut-width: 1.38888888%;
   top: 0;
 }
 
+.fixed-bottom{
+  position: fixed;
+  bottom: 0;
+}
+
 @for $i from 0 through 12{
   .col-#{$i}{
     @include grid-unit($i);
@@ -50,7 +55,7 @@ $gut-width: 1.38888888%;
       @include grid-unit($i);
       @if $i == 0 {display: none;}
     }
-    
+
   }
 }
 
