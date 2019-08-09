@@ -115,10 +115,9 @@ table {
 }
 
 .col-0 {
-  box-sizing: border-box;
-  -moz-box-sizing: border-box;
   -ms-box-sizing: border-box;
   -webkit-box-sizing: border-box;
+  box-sizing: border-box;
   float: left;
   margin: 16px 0.69444%;
   width: -1.38889%;
@@ -126,120 +125,108 @@ table {
 }
 
 .col-1 {
-  box-sizing: border-box;
-  -moz-box-sizing: border-box;
   -ms-box-sizing: border-box;
   -webkit-box-sizing: border-box;
+  box-sizing: border-box;
   float: left;
   margin: 16px 0.69444%;
   width: 6.94444%;
 }
 
 .col-2 {
-  box-sizing: border-box;
-  -moz-box-sizing: border-box;
   -ms-box-sizing: border-box;
   -webkit-box-sizing: border-box;
+  box-sizing: border-box;
   float: left;
   margin: 16px 0.69444%;
   width: 15.27778%;
 }
 
 .col-3 {
-  box-sizing: border-box;
-  -moz-box-sizing: border-box;
   -ms-box-sizing: border-box;
   -webkit-box-sizing: border-box;
+  box-sizing: border-box;
   float: left;
   margin: 16px 0.69444%;
   width: 23.61111%;
 }
 
 .col-4 {
-  box-sizing: border-box;
-  -moz-box-sizing: border-box;
   -ms-box-sizing: border-box;
   -webkit-box-sizing: border-box;
+  box-sizing: border-box;
   float: left;
   margin: 16px 0.69444%;
   width: 31.94444%;
 }
 
 .col-5 {
-  box-sizing: border-box;
-  -moz-box-sizing: border-box;
   -ms-box-sizing: border-box;
   -webkit-box-sizing: border-box;
+  box-sizing: border-box;
   float: left;
   margin: 16px 0.69444%;
   width: 40.27778%;
 }
 
 .col-6 {
-  box-sizing: border-box;
-  -moz-box-sizing: border-box;
   -ms-box-sizing: border-box;
   -webkit-box-sizing: border-box;
+  box-sizing: border-box;
   float: left;
   margin: 16px 0.69444%;
   width: 48.61111%;
 }
 
 .col-7 {
-  box-sizing: border-box;
-  -moz-box-sizing: border-box;
   -ms-box-sizing: border-box;
   -webkit-box-sizing: border-box;
+  box-sizing: border-box;
   float: left;
   margin: 16px 0.69444%;
   width: 56.94444%;
 }
 
 .col-8 {
-  box-sizing: border-box;
-  -moz-box-sizing: border-box;
   -ms-box-sizing: border-box;
   -webkit-box-sizing: border-box;
+  box-sizing: border-box;
   float: left;
   margin: 16px 0.69444%;
   width: 65.27778%;
 }
 
 .col-9 {
-  box-sizing: border-box;
-  -moz-box-sizing: border-box;
   -ms-box-sizing: border-box;
   -webkit-box-sizing: border-box;
+  box-sizing: border-box;
   float: left;
   margin: 16px 0.69444%;
   width: 73.61111%;
 }
 
 .col-10 {
-  box-sizing: border-box;
-  -moz-box-sizing: border-box;
   -ms-box-sizing: border-box;
   -webkit-box-sizing: border-box;
+  box-sizing: border-box;
   float: left;
   margin: 16px 0.69444%;
   width: 81.94444%;
 }
 
 .col-11 {
-  box-sizing: border-box;
-  -moz-box-sizing: border-box;
   -ms-box-sizing: border-box;
   -webkit-box-sizing: border-box;
+  box-sizing: border-box;
   float: left;
   margin: 16px 0.69444%;
   width: 90.27778%;
 }
 
 .col-12 {
-  box-sizing: border-box;
-  -moz-box-sizing: border-box;
   -ms-box-sizing: border-box;
   -webkit-box-sizing: border-box;
+  box-sizing: border-box;
   float: left;
   margin: 16px 0.69444%;
   width: 98.61111%;
@@ -247,119 +234,106 @@ table {
 
 @media only screen and (max-width: 720px) {
   .col-sm-0 {
-    box-sizing: border-box;
-    -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
     -webkit-box-sizing: border-box;
+    box-sizing: border-box;
     float: left;
     margin: 16px 0.69444%;
     width: -1.38889%;
     display: none;
   }
   .col-sm-1 {
-    box-sizing: border-box;
-    -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
     -webkit-box-sizing: border-box;
+    box-sizing: border-box;
     float: left;
     margin: 16px 0.69444%;
     width: 6.94444%;
   }
   .col-sm-2 {
-    box-sizing: border-box;
-    -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
     -webkit-box-sizing: border-box;
+    box-sizing: border-box;
     float: left;
     margin: 16px 0.69444%;
     width: 15.27778%;
   }
   .col-sm-3 {
-    box-sizing: border-box;
-    -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
     -webkit-box-sizing: border-box;
+    box-sizing: border-box;
     float: left;
     margin: 16px 0.69444%;
     width: 23.61111%;
   }
   .col-sm-4 {
-    box-sizing: border-box;
-    -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
     -webkit-box-sizing: border-box;
+    box-sizing: border-box;
     float: left;
     margin: 16px 0.69444%;
     width: 31.94444%;
   }
   .col-sm-5 {
-    box-sizing: border-box;
-    -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
     -webkit-box-sizing: border-box;
+    box-sizing: border-box;
     float: left;
     margin: 16px 0.69444%;
     width: 40.27778%;
   }
   .col-sm-6 {
-    box-sizing: border-box;
-    -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
     -webkit-box-sizing: border-box;
+    box-sizing: border-box;
     float: left;
     margin: 16px 0.69444%;
     width: 48.61111%;
   }
   .col-sm-7 {
-    box-sizing: border-box;
-    -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
     -webkit-box-sizing: border-box;
+    box-sizing: border-box;
     float: left;
     margin: 16px 0.69444%;
     width: 56.94444%;
   }
   .col-sm-8 {
-    box-sizing: border-box;
-    -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
     -webkit-box-sizing: border-box;
+    box-sizing: border-box;
     float: left;
     margin: 16px 0.69444%;
     width: 65.27778%;
   }
   .col-sm-9 {
-    box-sizing: border-box;
-    -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
     -webkit-box-sizing: border-box;
+    box-sizing: border-box;
     float: left;
     margin: 16px 0.69444%;
     width: 73.61111%;
   }
   .col-sm-10 {
-    box-sizing: border-box;
-    -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
     -webkit-box-sizing: border-box;
+    box-sizing: border-box;
     float: left;
     margin: 16px 0.69444%;
     width: 81.94444%;
   }
   .col-sm-11 {
-    box-sizing: border-box;
-    -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
     -webkit-box-sizing: border-box;
+    box-sizing: border-box;
     float: left;
     margin: 16px 0.69444%;
     width: 90.27778%;
   }
   .col-sm-12 {
-    box-sizing: border-box;
-    -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
     -webkit-box-sizing: border-box;
+    box-sizing: border-box;
     float: left;
     margin: 16px 0.69444%;
     width: 98.61111%;
@@ -368,119 +342,106 @@ table {
 
 @media only screen and (min-width: 721px) {
   .col-md-0 {
-    box-sizing: border-box;
-    -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
     -webkit-box-sizing: border-box;
+    box-sizing: border-box;
     float: left;
     margin: 16px 0.69444%;
     width: -1.38889%;
     display: none;
   }
   .col-md-1 {
-    box-sizing: border-box;
-    -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
     -webkit-box-sizing: border-box;
+    box-sizing: border-box;
     float: left;
     margin: 16px 0.69444%;
     width: 6.94444%;
   }
   .col-md-2 {
-    box-sizing: border-box;
-    -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
     -webkit-box-sizing: border-box;
+    box-sizing: border-box;
     float: left;
     margin: 16px 0.69444%;
     width: 15.27778%;
   }
   .col-md-3 {
-    box-sizing: border-box;
-    -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
     -webkit-box-sizing: border-box;
+    box-sizing: border-box;
     float: left;
     margin: 16px 0.69444%;
     width: 23.61111%;
   }
   .col-md-4 {
-    box-sizing: border-box;
-    -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
     -webkit-box-sizing: border-box;
+    box-sizing: border-box;
     float: left;
     margin: 16px 0.69444%;
     width: 31.94444%;
   }
   .col-md-5 {
-    box-sizing: border-box;
-    -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
     -webkit-box-sizing: border-box;
+    box-sizing: border-box;
     float: left;
     margin: 16px 0.69444%;
     width: 40.27778%;
   }
   .col-md-6 {
-    box-sizing: border-box;
-    -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
     -webkit-box-sizing: border-box;
+    box-sizing: border-box;
     float: left;
     margin: 16px 0.69444%;
     width: 48.61111%;
   }
   .col-md-7 {
-    box-sizing: border-box;
-    -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
     -webkit-box-sizing: border-box;
+    box-sizing: border-box;
     float: left;
     margin: 16px 0.69444%;
     width: 56.94444%;
   }
   .col-md-8 {
-    box-sizing: border-box;
-    -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
     -webkit-box-sizing: border-box;
+    box-sizing: border-box;
     float: left;
     margin: 16px 0.69444%;
     width: 65.27778%;
   }
   .col-md-9 {
-    box-sizing: border-box;
-    -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
     -webkit-box-sizing: border-box;
+    box-sizing: border-box;
     float: left;
     margin: 16px 0.69444%;
     width: 73.61111%;
   }
   .col-md-10 {
-    box-sizing: border-box;
-    -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
     -webkit-box-sizing: border-box;
+    box-sizing: border-box;
     float: left;
     margin: 16px 0.69444%;
     width: 81.94444%;
   }
   .col-md-11 {
-    box-sizing: border-box;
-    -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
     -webkit-box-sizing: border-box;
+    box-sizing: border-box;
     float: left;
     margin: 16px 0.69444%;
     width: 90.27778%;
   }
   .col-md-12 {
-    box-sizing: border-box;
-    -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
     -webkit-box-sizing: border-box;
+    box-sizing: border-box;
     float: left;
     margin: 16px 0.69444%;
     width: 98.61111%;
@@ -489,119 +450,106 @@ table {
 
 @media only screen and (min-width: 1024px) {
   .col-lg-0 {
-    box-sizing: border-box;
-    -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
     -webkit-box-sizing: border-box;
+    box-sizing: border-box;
     float: left;
     margin: 16px 0.69444%;
     width: -1.38889%;
     display: none;
   }
   .col-lg-1 {
-    box-sizing: border-box;
-    -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
     -webkit-box-sizing: border-box;
+    box-sizing: border-box;
     float: left;
     margin: 16px 0.69444%;
     width: 6.94444%;
   }
   .col-lg-2 {
-    box-sizing: border-box;
-    -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
     -webkit-box-sizing: border-box;
+    box-sizing: border-box;
     float: left;
     margin: 16px 0.69444%;
     width: 15.27778%;
   }
   .col-lg-3 {
-    box-sizing: border-box;
-    -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
     -webkit-box-sizing: border-box;
+    box-sizing: border-box;
     float: left;
     margin: 16px 0.69444%;
     width: 23.61111%;
   }
   .col-lg-4 {
-    box-sizing: border-box;
-    -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
     -webkit-box-sizing: border-box;
+    box-sizing: border-box;
     float: left;
     margin: 16px 0.69444%;
     width: 31.94444%;
   }
   .col-lg-5 {
-    box-sizing: border-box;
-    -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
     -webkit-box-sizing: border-box;
+    box-sizing: border-box;
     float: left;
     margin: 16px 0.69444%;
     width: 40.27778%;
   }
   .col-lg-6 {
-    box-sizing: border-box;
-    -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
     -webkit-box-sizing: border-box;
+    box-sizing: border-box;
     float: left;
     margin: 16px 0.69444%;
     width: 48.61111%;
   }
   .col-lg-7 {
-    box-sizing: border-box;
-    -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
     -webkit-box-sizing: border-box;
+    box-sizing: border-box;
     float: left;
     margin: 16px 0.69444%;
     width: 56.94444%;
   }
   .col-lg-8 {
-    box-sizing: border-box;
-    -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
     -webkit-box-sizing: border-box;
+    box-sizing: border-box;
     float: left;
     margin: 16px 0.69444%;
     width: 65.27778%;
   }
   .col-lg-9 {
-    box-sizing: border-box;
-    -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
     -webkit-box-sizing: border-box;
+    box-sizing: border-box;
     float: left;
     margin: 16px 0.69444%;
     width: 73.61111%;
   }
   .col-lg-10 {
-    box-sizing: border-box;
-    -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
     -webkit-box-sizing: border-box;
+    box-sizing: border-box;
     float: left;
     margin: 16px 0.69444%;
     width: 81.94444%;
   }
   .col-lg-11 {
-    box-sizing: border-box;
-    -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
     -webkit-box-sizing: border-box;
+    box-sizing: border-box;
     float: left;
     margin: 16px 0.69444%;
     width: 90.27778%;
   }
   .col-lg-12 {
-    box-sizing: border-box;
-    -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
     -webkit-box-sizing: border-box;
+    box-sizing: border-box;
     float: left;
     margin: 16px 0.69444%;
     width: 98.61111%;
