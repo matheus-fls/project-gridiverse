@@ -4,5 +4,27 @@ $primary-color: #222831;
 
 $secondary-color: #393e46;
 
-$tertiary-color: #d65a31;
+$tertiary-color: #f7ae96;
 
+.bg-primary {background-color: $primary-color;}
+
+.bg-secondary {background-color: $secondary-color;}
+
+.bg-tertiary {background-color: $tertiary-color;}
+
+.text-primary {
+  color: $tertiary-color;
+  fill: $tertiary-color;
+}
+
+.text-secondary {
+  color: $primary-color;
+  fill: $primary-color;
+}
+
+.body-color {background-color: #1b2027;}
+
+.title-color {
+  color: #be4016;
+  fill: #be4016;
+}
