@@ -45,6 +45,12 @@ $gut-width: 1.38888888%;
   position: fixed;
 }
 
+.d-flex {display: flex;}
+
+.v-center {align-items: center;}
+
+.h-center {justify-content: center;}
+
 @for $i from 0 through 12{
   .col-#{$i}{
     @include grid-unit($i);
