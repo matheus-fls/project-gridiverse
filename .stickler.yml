@@ -3,6 +3,7 @@ linters:
  eslint:
    config: "./eslint.config"
  csslint:
+   ignore: 'box-model,box-sizing,important,ids,known-properties,order-alphabetical' 
 files:
  ignore:
    - "src/generated/*"
