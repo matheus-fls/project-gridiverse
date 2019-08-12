@@ -40,6 +40,10 @@ $r: 0;
   color: rgb(30,170,80);
 }
 
+.hover-underline:hover{
+  text-decoration: underline;
+}
+
 .text-primary {
   color: $tertiary-color;
   fill: $tertiary-color;

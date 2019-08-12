@@ -25,13 +25,16 @@ $gut-width: 1.38888888%;
 
 @mixin grid-unit($cell) {
   @include border-box;
-  float: left;
+  /*float: left;*/
   margin: 16px $gut-width/2;
   width: ($col-width * $cell) + ($gut-width * ($cell - 1));
 }
 
 .container {
-  @include clearfix;
+  /*@include clearfix;*/
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
 }
 
 .sticky {
