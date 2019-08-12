@@ -25,13 +25,16 @@ $r: 0;
           color: rgb($r,$g,$b);
           fill: rgb($r,$g,$b);
         }
-        $b: $b+50;
+        $b: $b+10;
       }
-    $g: $g+50;
+    $g: $g+10;
   }
-  $r: $r+50;
+  $r: $r+10;
 }
 
+.hover-white:hover{
+  color: white;
+}
 
 .text-primary {
   color: $tertiary-color;
