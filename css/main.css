@@ -159168,16 +159168,27 @@ table {
   text-align: center;
 }
 
-.header-text {
-  font-size: 14px;
-  font-weight: bold;
-}
-
 .f-26 {
   font-size: 26px;
 }
 
+.f-18 {
+  font-size: 18px;
+}
+
+.f-16 {
+  font-size: 16px;
+}
+
+.f-14 {
+  font-size: 14px;
+}
+
 .f-12 {
   font-size: 12px;
+}
+
+.bold {
+  font-weight: bold;
 }
 /*# sourceMappingURL=main.css.map */
