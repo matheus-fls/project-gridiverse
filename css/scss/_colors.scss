@@ -14,6 +14,25 @@ $tertiary-color: #f7ae96;
 
 .body-color {background-color: #1b2027;}
 
+$r: 0;
+@while $r < 255{
+  $g: 0;
+  @while $g < 255{
+      $b: 0;
+      @while $b < 255{
+        .bg-#{$r}-#{$g}-#{$b}{background-color: rgb($r,$g,$b);}
+        .text-#{$r}-#{$g}-#{$b}{
+          color: rgb($r,$g,$b);
+          fill: rgb($r,$g,$b);
+        }
+        $b: $b+50;
+      }
+    $g: $g+50;
+  }
+  $r: $r+50;
+}
+
+
 .text-primary {
   color: $tertiary-color;
   fill: $tertiary-color;
