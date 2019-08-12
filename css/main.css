@@ -158310,364 +158310,386 @@ table {
   justify-content: center;
 }
 
+.h-between {
+  justify-content: space-between;
+}
+
+.mx-auto {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.px-auto {
+  padding-left: auto;
+  padding-right: auto;
+}
+
 .p-0 {
-  padding: 0 em;
+  padding: 0em;
 }
 
 .px-0 {
-  padding-left: 0 em;
-  padding-right: 0 em;
+  padding-left: 0em;
+  padding-right: 0em;
 }
 
 .py-0 {
-  padding-top: 0 em;
-  padding-bottom: 0 em;
+  padding-top: 0em;
+  padding-bottom: 0em;
 }
 
 .pl-0 {
-  padding-left: 0 em;
+  padding-left: 0em;
 }
 
 .pr-0 {
-  padding-right: 0 em;
+  padding-right: 0em;
 }
 
 .pt-0 {
-  padding-top: 0 em;
+  padding-top: 0em;
 }
 
 .pb-0 {
-  padding-bottom: 0 em;
+  padding-bottom: 0em;
 }
 
 .m-0 {
-  margin: 0 em;
+  margin: 0em;
 }
 
 .mx-0 {
-  margin-left: 0 em;
-  margin-right: 0 em;
+  margin-left: 0em;
+  margin-right: 0em;
 }
 
 .my-0 {
-  margin-top: 0 em;
-  margin-bottom: 0 em;
+  margin-top: 0em;
+  margin-bottom: 0em;
 }
 
 .ml-0 {
-  margin-left: 0 em;
+  margin-left: 0em;
 }
 
 .mr-0 {
-  margin-right: 0 em;
+  margin-right: 0em;
 }
 
 .mt-0 {
-  margin-top: 0 em;
+  margin-top: 0em;
 }
 
 .mb-0 {
-  margin-bottom: 0 em;
+  margin-bottom: 0em;
 }
 
 .p-1 {
-  padding: 1 em;
+  padding: 0.5em;
 }
 
 .px-1 {
-  padding-left: 1 em;
-  padding-right: 1 em;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
 }
 
 .py-1 {
-  padding-top: 1 em;
-  padding-bottom: 1 em;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
 }
 
 .pl-1 {
-  padding-left: 1 em;
+  padding-left: 0.5em;
 }
 
 .pr-1 {
-  padding-right: 1 em;
+  padding-right: 0.5em;
 }
 
 .pt-1 {
-  padding-top: 1 em;
+  padding-top: 0.5em;
 }
 
 .pb-1 {
-  padding-bottom: 1 em;
+  padding-bottom: 0.5em;
 }
 
 .m-1 {
-  margin: 1 em;
+  margin: 0.5em;
 }
 
 .mx-1 {
-  margin-left: 1 em;
-  margin-right: 1 em;
+  margin-left: 0.5em;
+  margin-right: 0.5em;
 }
 
 .my-1 {
-  margin-top: 1 em;
-  margin-bottom: 1 em;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
 }
 
 .ml-1 {
-  margin-left: 1 em;
+  margin-left: 0.5em;
 }
 
 .mr-1 {
-  margin-right: 1 em;
+  margin-right: 0.5em;
 }
 
 .mt-1 {
-  margin-top: 1 em;
+  margin-top: 0.5em;
 }
 
 .mb-1 {
-  margin-bottom: 1 em;
+  margin-bottom: 0.5em;
 }
 
 .p-2 {
-  padding: 2 em;
+  padding: 1em;
 }
 
 .px-2 {
-  padding-left: 2 em;
-  padding-right: 2 em;
+  padding-left: 1em;
+  padding-right: 1em;
 }
 
 .py-2 {
-  padding-top: 2 em;
-  padding-bottom: 2 em;
+  padding-top: 1em;
+  padding-bottom: 1em;
 }
 
 .pl-2 {
-  padding-left: 2 em;
+  padding-left: 1em;
 }
 
 .pr-2 {
-  padding-right: 2 em;
+  padding-right: 1em;
 }
 
 .pt-2 {
-  padding-top: 2 em;
+  padding-top: 1em;
 }
 
 .pb-2 {
-  padding-bottom: 2 em;
+  padding-bottom: 1em;
 }
 
 .m-2 {
-  margin: 2 em;
+  margin: 1em;
 }
 
 .mx-2 {
-  margin-left: 2 em;
-  margin-right: 2 em;
+  margin-left: 1em;
+  margin-right: 1em;
 }
 
 .my-2 {
-  margin-top: 2 em;
-  margin-bottom: 2 em;
+  margin-top: 1em;
+  margin-bottom: 1em;
 }
 
 .ml-2 {
-  margin-left: 2 em;
+  margin-left: 1em;
 }
 
 .mr-2 {
-  margin-right: 2 em;
+  margin-right: 1em;
 }
 
 .mt-2 {
-  margin-top: 2 em;
+  margin-top: 1em;
 }
 
 .mb-2 {
-  margin-bottom: 2 em;
+  margin-bottom: 1em;
 }
 
 .p-3 {
-  padding: 3 em;
+  padding: 1.5em;
 }
 
 .px-3 {
-  padding-left: 3 em;
-  padding-right: 3 em;
+  padding-left: 1.5em;
+  padding-right: 1.5em;
 }
 
 .py-3 {
-  padding-top: 3 em;
-  padding-bottom: 3 em;
+  padding-top: 1.5em;
+  padding-bottom: 1.5em;
 }
 
 .pl-3 {
-  padding-left: 3 em;
+  padding-left: 1.5em;
 }
 
 .pr-3 {
-  padding-right: 3 em;
+  padding-right: 1.5em;
 }
 
 .pt-3 {
-  padding-top: 3 em;
+  padding-top: 1.5em;
 }
 
 .pb-3 {
-  padding-bottom: 3 em;
+  padding-bottom: 1.5em;
 }
 
 .m-3 {
-  margin: 3 em;
+  margin: 1.5em;
 }
 
 .mx-3 {
-  margin-left: 3 em;
-  margin-right: 3 em;
+  margin-left: 1.5em;
+  margin-right: 1.5em;
 }
 
 .my-3 {
-  margin-top: 3 em;
-  margin-bottom: 3 em;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
 }
 
 .ml-3 {
-  margin-left: 3 em;
+  margin-left: 1.5em;
 }
 
 .mr-3 {
-  margin-right: 3 em;
+  margin-right: 1.5em;
 }
 
 .mt-3 {
-  margin-top: 3 em;
+  margin-top: 1.5em;
 }
 
 .mb-3 {
-  margin-bottom: 3 em;
+  margin-bottom: 1.5em;
 }
 
 .p-4 {
-  padding: 4 em;
+  padding: 2em;
 }
 
 .px-4 {
-  padding-left: 4 em;
-  padding-right: 4 em;
+  padding-left: 2em;
+  padding-right: 2em;
 }
 
 .py-4 {
-  padding-top: 4 em;
-  padding-bottom: 4 em;
+  padding-top: 2em;
+  padding-bottom: 2em;
 }
 
 .pl-4 {
-  padding-left: 4 em;
+  padding-left: 2em;
 }
 
 .pr-4 {
-  padding-right: 4 em;
+  padding-right: 2em;
 }
 
 .pt-4 {
-  padding-top: 4 em;
+  padding-top: 2em;
 }
 
 .pb-4 {
-  padding-bottom: 4 em;
+  padding-bottom: 2em;
 }
 
 .m-4 {
-  margin: 4 em;
+  margin: 2em;
 }
 
 .mx-4 {
-  margin-left: 4 em;
-  margin-right: 4 em;
+  margin-left: 2em;
+  margin-right: 2em;
 }
 
 .my-4 {
-  margin-top: 4 em;
-  margin-bottom: 4 em;
+  margin-top: 2em;
+  margin-bottom: 2em;
 }
 
 .ml-4 {
-  margin-left: 4 em;
+  margin-left: 2em;
 }
 
 .mr-4 {
-  margin-right: 4 em;
+  margin-right: 2em;
 }
 
 .mt-4 {
-  margin-top: 4 em;
+  margin-top: 2em;
 }
 
 .mb-4 {
-  margin-bottom: 4 em;
+  margin-bottom: 2em;
 }
 
 .p-5 {
-  padding: 5 em;
+  padding: 2.5em;
 }
 
 .px-5 {
-  padding-left: 5 em;
-  padding-right: 5 em;
+  padding-left: 2.5em;
+  padding-right: 2.5em;
 }
 
 .py-5 {
-  padding-top: 5 em;
-  padding-bottom: 5 em;
+  padding-top: 2.5em;
+  padding-bottom: 2.5em;
 }
 
 .pl-5 {
-  padding-left: 5 em;
+  padding-left: 2.5em;
 }
 
 .pr-5 {
-  padding-right: 5 em;
+  padding-right: 2.5em;
 }
 
 .pt-5 {
-  padding-top: 5 em;
+  padding-top: 2.5em;
 }
 
 .pb-5 {
-  padding-bottom: 5 em;
+  padding-bottom: 2.5em;
 }
 
 .m-5 {
-  margin: 5 em;
+  margin: 2.5em;
 }
 
 .mx-5 {
-  margin-left: 5 em;
-  margin-right: 5 em;
+  margin-left: 2.5em;
+  margin-right: 2.5em;
 }
 
 .my-5 {
-  margin-top: 5 em;
-  margin-bottom: 5 em;
+  margin-top: 2.5em;
+  margin-bottom: 2.5em;
 }
 
 .ml-5 {
-  margin-left: 5 em;
+  margin-left: 2.5em;
 }
 
 .mr-5 {
-  margin-right: 5 em;
+  margin-right: 2.5em;
 }
 
 .mt-5 {
-  margin-top: 5 em;
+  margin-top: 2.5em;
 }
 
 .mb-5 {
-  margin-bottom: 5 em;
+  margin-bottom: 2.5em;
+}
+
+.max-width {
+  max-width: 1240px;
+}
+
+.w-100 {
+  width: 100%;
 }
 
 .col-0 {
